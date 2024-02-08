@@ -1,4 +1,3 @@
-libraries{
-  Git
+@merge libraries{
   NodeJS
 }
